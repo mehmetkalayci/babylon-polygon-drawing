@@ -2,5 +2,6 @@ import './main.css'
 
 import { createApp } from 'vue'
 import App from './App.vue'
+import Tri from './Tri.vue'
 
-createApp(App).mount('#app')
+createApp(Tri).mount('#app')
